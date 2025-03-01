@@ -24,7 +24,29 @@
 * Google Gemini API key.
 
 
-**To test this you have to set up your own Google Gemini API key:**
+## Installation
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone [https://github.com/DevanshuSinghai/ContextualPDFChat.git](https://github.com/DevanshuSinghai/ContextualPDFChat.git)
+    cd ContextualPDFChat
+    ```
+
+2.  **Create a virtual environment (recommended):**
+
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate  # On Windows
+    ```
+
+3.  **Install the required dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Set up your Google Gemini API key:**
 
     * Create a file named `.env` in the root directory of the project.
     * Add your Gemini API key to the `.env` file in the following format:
