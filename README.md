@@ -20,8 +20,8 @@
 
 ## Prerequisites
 
-* Python 3.8 or higher.
-* Google Gemini API key.
+* Python 3.6 or higher
+* Google Gemini API key
 
 
 ## Installation
