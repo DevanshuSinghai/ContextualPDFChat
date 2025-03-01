@@ -29,7 +29,7 @@
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/DevanshuSinghai/ContextualPDFChat.git](https://github.com/DevanshuSinghai/ContextualPDFChat.git)
+    git clone https://github.com/DevanshuSinghai/ContextualPDFChat.git
     cd ContextualPDFChat
     ```
 
